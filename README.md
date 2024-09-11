@@ -30,7 +30,7 @@ All code is written in Python 3 and uses RL environments from [OpenAI Gym](https
 - [Dynamic Programming Policy Iteration](DP/Policy%20Iteration%20Solution.ipynb)
 - [Dynamic Programming Value Iteration](DP/Value%20Iteration%20Solution.ipynb)
 - [Monte Carlo Prediction](MC/MC%20Prediction%20Solution.ipynb)
-- [Monte Carlo Control with Epsilon-Greedy Policies](MC/MC%20Control%20with%20Epsilon-Greedy%20Policies%20Solution.ipynb)
+- [Monte Carlo Control with Epsilon-Greedy Policies](MC/MC%20Control%20with%20Epsilon-Greedy%20Policies%20Solution.ipynb) 
 - [Monte Carlo Off-Policy Control with Importance Sampling](MC/Off-Policy%20MC%20Control%20with%20Weighted%20Importance%20Sampling%20Solution.ipynb)
 - [SARSA (On Policy TD Learning)](TD/SARSA%20Solution.ipynb)
 - [Q-Learning (Off Policy TD Learning)](TD/Q-Learning%20Solution.ipynb)
